@@ -1,0 +1,11 @@
+{
+  "name": "my-tea-package",
+  "version": "1.0.0",
+  "description": "This is a test package to register on Tea.xyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "author": "carlys17",
+  "license": "MIT"
+}
